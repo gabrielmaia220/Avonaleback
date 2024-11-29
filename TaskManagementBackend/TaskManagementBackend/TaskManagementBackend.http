@@ -1,6 +1,0 @@
-@TaskManagementBackend_HostAddress = http://localhost:5034
-
-GET {{TaskManagementBackend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
