@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\taskmanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\taskmanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\models\\taskhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\models\\taskhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|c:\\users\\flame\\onedrive\\\u00E1rea de trabalho\\avonaleback\\taskmanagementbackend\\taskmanagementbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{873E2D8B-DF2D-42AC-879F-2117137FE87A}|TaskManagementBackend\\TaskManagementBackend.csproj|solutionrelative:taskmanagementbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:26:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:28:03.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Program.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:34:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:27:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Services\\HistoryService.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\HistoryService.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Services\\HistoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:28:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:28:08.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManagementBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\TaskManagementBackend.csproj",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\TaskManagementBackend.csproj",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\TaskManagementBackend.csproj",
+              "RelativeToolTip": "TaskManagementBackend\\TaskManagementBackend.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T20:27:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskHistory.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\TaskHistory.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Models\\TaskHistory.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\TaskHistory.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Models\\TaskHistory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:26:59.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Models\\Task.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:26:46.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:28:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:32:21.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Controllers\\HistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:26:08.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:25:43.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementBackend\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:25:57.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\appsettings.json",
+              "RelativeToolTip": "TaskManagementBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T20:14:40.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskManagementBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\\u00C1rea de Trabalho\\Avonaleback\\TaskManagementBackend\\TaskManagementBackend\\appsettings.Development.json",
+              "RelativeToolTip": "TaskManagementBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T20:15:32.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
